@@ -1,0 +1,5 @@
+name: Crashbye
+main: ciyuanwutuobang.Crashbye
+version: 1.0.1
+author: 150149
+depend: [ProtocolLib]
