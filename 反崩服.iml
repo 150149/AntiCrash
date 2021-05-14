@@ -17,6 +17,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Forge" level="project" />
-    <orderEntry type="library" name="ProtocolLib-3.4.0" level="project" />
+    <orderEntry type="library" name="[前置]ProtocolLib" level="project" />
   </component>
 </module>
